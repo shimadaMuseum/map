@@ -42,3 +42,7 @@ a:hover {
   width:98%;
   width:-webkit-calc(100%-5px);
 }
+#credit{
+  width:100%;
+  text-align: right;
+}
